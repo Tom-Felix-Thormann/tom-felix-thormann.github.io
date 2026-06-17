@@ -1,0 +1,8 @@
+{{- $url := urls.Parse .Destination -}}
+{{- $isPDF := strings.HasSuffix .Destination ".pdf" -}}
+{{- $isExternal := and $url.Host (ne $url.Host site.BaseURL) -}}
+
+<a href="{{ .Destination | safeURL }}"
+  {{- if or $isPDF $isExternal }} target="_blank" rel="noopener noreferrer"{{- end }}>
+  {{- .Text | safeHTML -}}
+</a>
