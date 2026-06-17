@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tom-Felix Berger</title>
-    <link>https://tom-felixberger.github.io/</link>
-    <description>Recent content on Tom-Felix Berger</description>
+    <title>Tom-Felix Thormann (née Berger) on Tom-Felix Thormann</title>
+    <link>https://tom-felix-thormann.github.io/</link>
+    <description>Recent content in Tom-Felix Thormann (née Berger) on Tom-Felix Thormann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://tom-felixberger.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tom-felix-thormann.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>https://tom-felixberger.github.io/cv/</link>
+      <link>https://tom-felix-thormann.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tom-felixberger.github.io/cv/</guid>
+      <guid>https://tom-felix-thormann.github.io/cv/</guid>
       <description>I graduated in&#xA;Data Science (M.Sc.) at Fernuniversität Hagen, 2026. Philosophy (M.A.) at Ruhr-Universität Bochum, 2024. Mathematics and Philosophy (B.A.) at Ruhr-Universität Bochum, 2022. You can download my full CV as a PDF.</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>https://tom-felixberger.github.io/publications/</link>
+      <link>https://tom-felix-thormann.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tom-felixberger.github.io/publications/</guid>
-      <description>Journal Articles Conference Proceedings Open Access Archives Probing the Limits of the Lie Detector Approach to LLM Deception. https://doi.org/10.48550/arXiv.2603.10003. Download PDF</description>
+      <guid>https://tom-felix-thormann.github.io/publications/</guid>
+      <description>Philosophy of AI Thormann, T.F. (Under Review). Defining Strategic AI Deception Through Generalized Propositional Attitudes. Download PDF&#xA;Dung, L., Thormann, T.F. (Under Review). Mask or Mind? Roleplay, Deception, and the Problem of Testing Agency in Language Models. Download PDF&#xA;Other Philosophy Thormann, T.F., Michelini, M. (Under Review): An Evolutionary Model of Morality as Externalization. Download PDF&#xA;More Technical Work Thormann, T.F., Gilles, M. (Under Review): Probing the Limits of the Lie Detector Approach to LLM Deception.</description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>https://tom-felix-thormann.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tom-felix-thormann.github.io/talks/</guid>
+      <description>ESPP 2026 Defining Strategic AI Deception Through Generalized Propositional Attitudes. Download Slides. Download PDF</description>
     </item>
   </channel>
 </rss>

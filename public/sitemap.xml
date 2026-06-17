@@ -2,14 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tom-felixberger.github.io/categories/</loc>
+    <loc>https://tom-felix-thormann.github.io/categories/</loc>
   </url><url>
-    <loc>https://tom-felixberger.github.io/cv/</loc>
+    <loc>https://tom-felix-thormann.github.io/cv/</loc>
   </url><url>
-    <loc>https://tom-felixberger.github.io/publications/</loc>
+    <loc>https://tom-felix-thormann.github.io/publications/</loc>
   </url><url>
-    <loc>https://tom-felixberger.github.io/tags/</loc>
+    <loc>https://tom-felix-thormann.github.io/tags/</loc>
   </url><url>
-    <loc>https://tom-felixberger.github.io/</loc>
+    <loc>https://tom-felix-thormann.github.io/talks/</loc>
+  </url><url>
+    <loc>https://tom-felix-thormann.github.io/</loc>
   </url>
 </urlset>

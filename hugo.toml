@@ -1,5 +1,5 @@
-baseURL = "https://tom-felixberger.github.io/"
-title = "Tom-Felix Berger"
+baseURL = "https://tom-felix-thormann.github.io/"
+title = "Tom-Felix Thormann"
 theme = "hugo-paper"
 languageCode = "en-us"
 
@@ -9,8 +9,8 @@ languageCode = "en-us"
       unsafe = true
 
 [params]
-  name = "Tom-Felix Berger"
-  github = "Tom-FelixBerger"
+  name = "Tom-Felix Thormann"
+  github = "Tom-Felix-Thormann"
   linkedin = "tom-felix-berger-b209a3262"
   email = "tom-felix.berger@ruhr-uni-bochum.de"
   favicon = "favicon.png"
@@ -23,6 +23,11 @@ url = "/publications/"
 weight = 1
 
 [[menu.main]]
+name = "Talks"
+url = "/talks/"
+weight = 2
+
+[[menu.main]]
 name = "CV"
 url = "/cv/"
-weight = 2
+weight = 3
