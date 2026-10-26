@@ -3,6 +3,8 @@ title: "Publications"
 ---
 
 ## Philosophy of AI
+Thormann, T.F., Dung, L. (Under Review). "I Think You're Testing Me": Agency and the Three Levels of Reactivity in Large Language Models. [Download PDF](/thormann_dung_2026_reactivity.pdf)
+
 Thormann, T.F. (Under Review). Defining Strategic AI Deception Through Generalized Propositional Attitudes.
 [Download PDF](/thormann_2026_defining_strategic_deception.pdf)
 
