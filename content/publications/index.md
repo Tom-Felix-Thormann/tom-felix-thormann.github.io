@@ -19,8 +19,8 @@ Thormann, T.F., Michelini, M. (2026): An Evolutionary Model of Morality as Exter
 ------------------
 ## Mechanistic Interpretability
 
-Thormann, T.F., Gilles, M. (Under Review): Probing the Limits of the Lie Detector Approach to LLM Deception.
+Thormann, T.F. (Under Review): Probing the Limits of the Lie Detector Approach to LLM Deception.
 [https://doi.org/10.48550/arXiv.2603.10003](https://doi.org/10.48550/arXiv.2603.10003).
-[Download PDF](/thormann_gilles_2026_probing_limits_lie_detectors.pdf)
+[Download PDF](/thormann_2026_probing_limits_lie_detectors.pdf)
 
 ------------------
